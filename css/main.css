@@ -1,0 +1,16 @@
+h1 {
+    color:brown;
+    font-size: 60px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+hr {
+    color:brown;
+}
+
+q {
+    color: brown;
+}
